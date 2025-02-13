@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, welcome to SARE Craft Code Github Page👋
 
 <!--
 **sarecraftscode/sarecraftscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 Let's talk about (coming soon)
